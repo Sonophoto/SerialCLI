@@ -1,5 +1,8 @@
 # SerialCLI
 
+## Unfortunately this project has been concelled for opensourcing :-( but you can still run with the idea! :-)
+
+
 ## Project is in development, post an issue if you have a question about anything.
 
 A UART Serial CLI framework for ATMegaxxxxP class processors using Wiring/Arduino it allows rapid prototyping of serial based device control interfaces. May not fully support ATMega328/P based "Unos"(tm)
